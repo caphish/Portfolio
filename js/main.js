@@ -21,5 +21,5 @@ const animate= ScrollReveal({
   animate.reveal('nav');
   animate.reveal('.header-image, .card-1, .con-1 , .con-3',{origin:"left"});
   animate.reveal('.header-content, .card-2 , .con-2', {origin:"right"});
-  animate.reveal('.about-header, .about-subheader, .skills-header , .skills-grid , .skillset, .project-header, .project-subheader,.resume,.contact-header, .contact-upper ,  .timeline', {interval:100});
+  animate.reveal('.about-header, .about-subheader, .skills-header , .skills-grid , .project-header, .project-subheader,.resume,.contact-header, .contact-upper ,  .timeline', {interval:100});
   animate.reveal('.footer-content, .socials', {origin:"bottom"});
